@@ -62,6 +62,9 @@ export const metadata: Metadata = {
       'max-image-preview': 'large',
     },
   },
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
   openGraph: {
     title: META_TITLE,
     description: META_DESCRIPTION,
